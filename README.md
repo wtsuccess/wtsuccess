@@ -1,6 +1,6 @@
-# <div align="center">Hi, I'm Marko Radojicic 👨‍💻</div>  
+<!-- # <div align="center">Hi, I'm Marko Radojicic 👨‍💻</div>   -->
 
-<div align="center">
+<!-- <div align="center">
 AI Full Stack Software Engineer
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markoradojicic1203@gmail.com)
@@ -10,7 +10,7 @@ AI Full Stack Software Engineer
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marko-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-radojicic-6b4620a6/)
 
-</div>
+</div> -->
 
 ## Skills
 
