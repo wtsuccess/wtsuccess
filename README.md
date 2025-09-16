@@ -3,12 +3,12 @@
 <div align="center">
 AI Full Stack Software Engineer
 
-[![Email](https://img.shields.io/badge/Email-markoradojicic1203@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markoradojicic1203@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+381%2062%20927%205806-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/381629275806)
-[![Telegram](https://img.shields.io/badge/Telegram-@iceberg0212-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iceberg0212)
-[![GitHub](https://img.shields.io/badge/GitHub-wtsuccess-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wtsuccess)
-[![Portfolio](https://img.shields.io/badge/Portfolio-marko--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marko-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marko%20Radojicic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-radojicic-6b4620a6/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markoradojicic1203@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/381629275806)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iceberg0212)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wtsuccess)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marko-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-radojicic-6b4620a6/)
 
 </div>
 
